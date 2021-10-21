@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UnConquered</string>
+    <string name="search_games">Search Game...</string>
+    <string name="game_categories">Game Categories</string>
+    <string name="category">Category</string>
+    <string name="country">Country</string>
+    <string name="instructions">INSTRUCTIONS</string>
+    <string name="dot_loading">...</string>
+    <string name="favorite">Favorite</string>
+</resources>
